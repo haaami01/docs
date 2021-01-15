@@ -94,10 +94,10 @@ On OS X Leopard through OS X El Capitan, these default private key files are han
 
 The first time you use your key, you will be prompted to enter your passphrase. If you choose to save the passphrase with your keychain, you won't have to enter it again.
 
-Otherwise, you can store your passphrase in the keychain when you add your key to the ssh-agent. For more information, see "[Adding your SSH key to the ssh-agent](/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent)."
-
-{% endmac %}
-
-### Further reading
+Ellenkező esetben a jelszavát a kulcstartóban tárolhatja, amikor hozzáadja a kulcsot az ssh-agenthez. További információ: " [Az SSH-kulcs hozzáadása az ssh-agenthez] (/ articles / new-ssh-key generálása és hozzáadása az ssh-agent-hez # add-your-ssh -key-az-ssh-ügynök)."
+Egy $ ssh-add
+{% endmac%} /.ssh/id
+Aed25519
+### További irodalom
 
 - "[About SSH](/articles/about-ssh)"
